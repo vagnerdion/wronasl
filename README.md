@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vagner França 👋
+### Olá! Eu sou o Vagner Roncoski... Mas pode me chamar de Wrona 🪶👋
 
 - 🔭 Hoje trabalho no setor de qualidade industrial e fazendo pequenos projetos de sistemas internos e segurança para pequenas empresas
 - 🌱 Estudo Python, JavaScript, HTML, CSS, C+, C++ e VBA
@@ -27,9 +27,6 @@
   
  <div>
   <a href="https://instagram.com/vagner_goo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="https://twitter.com/Vagner_goo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-   
-  ![Snake animation](https://github.com/wronasl)
-   
+  <a href ="https://twitter.com/Vagner_goo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
  </div>
   
