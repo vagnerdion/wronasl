@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Vagner Roncoski... Mas pode me chamar de Wrona 🪶👋
 
 - 🔭 Hoje trabalho no setor de qualidade industrial e fazendo pequenos projetos de sistemas internos e segurança para pequenas empresas
-- 🌱 Estudo Python, JavaScript, HTML, CSS, C+, C++ e VBA
-- 😄 Pronouns: ele/dele
+- 🌱 Estudo na Alura, porém como autodita estudo também Python, JavaScript, HTML, CSS, C+, C++ e VBA
+- 😄 Pronomes: ele/dele
 - ✉️ vagnerfrjr@gmail.com
 - ⚡ Fun fact: Mesmo tendo facilidade para linguagens de programação... ainda me atrapalho com um modelo de cafeteira das mais modernas, quais foram os motivos para deixarmos de moer o café toda manhã mesmo? 
 -->
