@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vagner Roncoski... Mas pode me chamar de Wrona 🪶👋
+### Olá! Eu sou o Vagner Roncoski... Mas pode me chamar de Dion 🪶👋
 
 - 🔭 Hoje trabalho no setor de qualidade industrial e fazendo pequenos projetos de sistemas internos e segurança para pequenas empresas
 - 🌱 Estudo na Alura, porém como autodita estudo também Python, JavaScript, HTML, CSS, C+, C++ e VBA
